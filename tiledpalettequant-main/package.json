@@ -1,0 +1,12 @@
+{
+  "name": "tiledpalettequant-cli",
+  "version": "1.0.0",
+  "description": "CLI bridge for tiledpalettequant",
+  "main": "palettequant-cli.js",
+  "dependencies": {
+    "pngjs": "^7.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
